@@ -20,5 +20,7 @@ img.bg {
   }
 }
 
-		#page-wrap { top: 85vh; position: relative; width: 50%; margin: 50px auto; background: white; -moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 20px black; }
+		#page-wrap { top: 80vh; position: relative; width: 50%; margin: 50px auto; background: white; -moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 20px black; }
 		p { font: 15px/2 Georgia, Serif; margin: 0 0 30px 0; text-indent: 40px; }
+
+/*Yes, I copy and pasted this, no I am not ashamed. */
